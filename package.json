@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/hardfist/hardfist.github.io/issues"
   },
-  "homepage": "https://github.com/hardfist/hardfist.github.io#readme"
+  "homepage": "https://github.com/hardfist/hardfist.github.io#readme",
+  "dependencies": {
+    "vuepress": "^0.14.2"
+  }
 }
