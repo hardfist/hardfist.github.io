@@ -1,4 +1,7 @@
 ---
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/hardfist/hardfist.github.io.svg)](https://greenkeeper.io/)
+
 home: true
 heroImage: /logo.jpeg
 actionText: hardfist的个人博客 →
